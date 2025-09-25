@@ -13,7 +13,7 @@
 
 header {
   grid-area: header;
-  background: #2c3e50;
+  background: #ff0000;
   color: #fff;
   padding: 15px;
   text-align: center;
@@ -36,7 +36,7 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #2c3e50;
+  color: #000000;
 }
 
 main {
@@ -46,7 +46,7 @@ main {
 
 footer {
   grid-area: footer;
-  background: #2c3e50;
+  background: #ff0000;
   color: #fff;
   text-align: center;
   padding: 10px;
@@ -64,7 +64,7 @@ footer {
   padding: 20px;
   text-align: center;
   border-radius: 5px;
-  color: #2c3e50;
+  color: #000000;
   text-decoration: none;
   transition: background 0.3s;
 }
